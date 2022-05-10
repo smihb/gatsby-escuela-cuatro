@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkescuela_cuatro=self.webpackChunkescuela_cuatro||[]).push([[678],{6558:function(e,u,c){c.r(u);var t=c(7294),a=c(6563);u.default=function(){return t.createElement(a.Z,null)}}}]);
+//# sourceMappingURL=component---src-pages-index-js-9fee0861a193f6cd30e1.js.map

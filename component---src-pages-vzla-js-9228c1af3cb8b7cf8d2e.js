@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkescuela_cuatro=self.webpackChunkescuela_cuatro||[]).push([[666],{4498:function(e,u,a){a.r(u);var c=a(7294),t=a(6563);u.default=function(){return c.createElement(t.Z,{cambio:4.7,moneda:"Bs "})}}}]);
+//# sourceMappingURL=component---src-pages-vzla-js-9228c1af3cb8b7cf8d2e.js.map
